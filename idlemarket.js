@@ -17,7 +17,7 @@ IdleTrading.launch = function(){
 			conf.goods.push({
 				active: true,
 				buyThresh: 10,
-				sellThresh: 150,
+				sellThresh: 170,
 				minPrice: 99999,
 				maxPrice:-99999
 			});
