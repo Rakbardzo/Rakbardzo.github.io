@@ -16,7 +16,7 @@ IdleTrading.launch = function(){
 		for(var iG = 2; iG < Game.ObjectsN; iG++){
 			conf.goods.push({
 				active: true,
-				buyThresh: 10,
+				buyThresh: 20,
 				sellThresh: 200,
 				minPrice: 99999,
 				maxPrice:-99999
